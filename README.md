@@ -1,2 +1,3 @@
 # Data-Exploration
-For this project I experimented with and analyzed csv data that involved questions about gender, political views, and hypothetical scenarios. I made a report of my findings.
+In this project, I used Python’s pandas library and dataFrames to analyze survey responses. This was one of my first data science projects, and I completed it independently. The guidelines were intentionally open ended and we were simply asked to explore any question that interested us. I chose to examine whether the respondent’s gender influenced how they answered scenarios in which gender was explicitly mentioned.
+Using pandas made the analysis structured, efficient, and easy to iterate on. It allowed me to quickly extract and manipulate the data I needed. Through this project, I strengthened both my data analysis and data visualization skills while gaining experience formulating meaningful questions from raw survey data.
